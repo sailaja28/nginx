@@ -1,0 +1,1 @@
+print("all credicards allowed for payments")
